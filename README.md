@@ -11,4 +11,6 @@ We'll also pass strings with special symbols, such as 2A3*3a2, 2A3 3a2, and 2_A3
 
 Veja essa função funcionando aqui : https://codepen.io/Marcos-Oliveira-the-solid/pen/zYMgjaQ 
 
-OBS: use o console para executar a função, por exemplo: palindrome("eye")
+OBS: use o console para executar a função, por exemplo: palindrome("eye") como na imagem abaixo:
+
+<img src="exemplo.png" />
