@@ -27,4 +27,4 @@ function palindrome(str) {
 
 
 
-palindrome("A man, a plan, a canal. Panama");
+// exemple to execute: palindrome("A man, a plan, a canal. Panama");
